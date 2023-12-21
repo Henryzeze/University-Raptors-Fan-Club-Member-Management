@@ -16,7 +16,7 @@ The solution involves writing a Python script to handle the removal of inactive 
 
 The provided code skeleton includes a function cleanFiles() where the main logic needs to be implemented. The function performs the required operations to clean the member files as per the problem statement.
 
-![](University Raptors Fan Club Member Management python code.png)
+![](URFCMM_code.jpg)
 
 ### Getting Started
 
