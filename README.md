@@ -31,8 +31,8 @@ To run the code, execute the provided cleanFiles() function after setting up the
 
 ### Files
 
-currentMem.txt: Contains the register of active members.
-exMem.txt: File to append removed members.
+- currentMem.txt: Contains the register of active members.
+- exMem.txt: File to append removed members.
 
 ### Usage
 
